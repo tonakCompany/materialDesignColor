@@ -1,5 +1,3 @@
-# materialDesignColor
-materialDesignColor | CSS/LESS/SCSS/SASS
 # Material Design Colors
 
 Here are the Material Design Colors.
